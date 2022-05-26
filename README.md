@@ -78,8 +78,8 @@ A base de dados de DNA, fornecida como um arquivo no formato CSV, é basicamente
 
 Para o exemplo anteriormente apresentado, o arquivo CSV fornecido como entrada representa a tabela abaixo:
 
-| name    | `AGAT` | `AATG` | `TATC` |
-|:------ :| ------:|-------:|-------:|
+| name    | `AGAT`  | `AATG` | `TATC` |
+|:------  | :------ | :----- | :----- |
 | Alice   | 28 | 42 | 14 |
 | Bob     | 17 | 22 | 19 |
 | Charlie | 36 | 18 | 25 |
